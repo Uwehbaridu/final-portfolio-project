@@ -195,9 +195,9 @@
                             <li class="nav-item">
                               <a class="nav-link me-lg-3" href="#hire">Hire</a></li>
                             <li class="nav-item">
-                              <a class="nav-link me-lg-3" href="#blog">Log in</a></li>
+                              <a class="nav-link me-lg-3" href="{{ route('login') }}">Log in</a></li>
                             <li class="nav-item">
-                              <a class="nav-link me-lg-3" href="#contact">Sign up</a></li>
+                              <a class="nav-link me-lg-3" href="{{ route('register') }}">Sign up</a></li>
                         </ul>
                       </div>
                 </div>
