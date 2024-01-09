@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+}
+.material-icons-outlined{
+    vertical-align: middle;
+    line-height: 1px;
+}
+.navbar-brand > img{
+    height: 40px;
+}
+.navbar-brand > .material-icons-outlined{
+    font-size: 40px;
+}
+
+.about > .material-icons-outlined{
+    font-size: 50px;
+}
+.card > img{
+    height: 250px;
+}
+#map { height: 300px; }
+
+
+
+.bg-image {
+    background-image: url('https://source.unsplash.com/kKvQJ6rK6S4/660x1000');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
